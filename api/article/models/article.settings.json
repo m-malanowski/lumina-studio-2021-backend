@@ -28,6 +28,10 @@
       "type": "uid",
       "targetField": "TItle",
       "required": true
+    },
+    "Category": {
+      "type": "string",
+      "required": true
     }
   }
 }
