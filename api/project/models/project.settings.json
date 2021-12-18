@@ -51,6 +51,9 @@
     },
     "services": {
       "type": "string"
+    },
+    "link": {
+      "type": "string"
     }
   }
 }
